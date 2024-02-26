@@ -3,7 +3,7 @@
         {
             "userId": 1,
             "nombre": "Escuela Albert Einstein",
-            "notasNecesarias": 10 ,
+            "notasNecesarias": [10] ,
             "direccion": "COLON 986, GODOY CRUZ, MENDOZA",
             "img": "./images/escuelaAlbertEinstein.jpg" ,
             "mail": "albert.einstein@gmail.com",
