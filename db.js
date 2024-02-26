@@ -1,5 +1,5 @@
 {
-    "escuelas"= [
+    "escuelas": [
         {
             userId: 1,
             nombre: 'Escuela Albert Einstein',
@@ -40,7 +40,9 @@
            img: "./images/institutoConfucio.jpg" ,
            telefono:  4247865,
           },
-    ]
-       
+    ],
+    "profile": {
+      "name": "typicode"
+    }   
 }
     
