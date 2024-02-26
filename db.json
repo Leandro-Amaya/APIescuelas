@@ -2,42 +2,47 @@
     "escuelas": [
         {
             "userId": 1,
-            "name": "'Escuela Albert Einstein'",
+            "nombre": "Escuela Albert Einstein",
             "notasNecesarias": 10 ,
             "direccion": "COLON 986, GODOY CRUZ, MENDOZA",
             "img": "./images/escuelaAlbertEinstein.jpg" ,
+            "mail": "albert.einstein@gmail.com",
             "telefono":  4907854
           },
           {
            "userId": 2,
-           "nombre": "'Escuela María Montessori'",
+           "nombre": "Escuela María Montessori",
            "notasNecesarias": [ 8, 9, 10],
            "direccion": "LIBERTAD 123, GUAYMALLEN, MENDOZA",
            "img": "./images/escuelaMariaMontessori.jpg" ,
+           "mail": "esc-montessori@gmail.com",
            "telefono":  4856498
           },
           {
             "userId": 3,
-            "nombre": "'Escuela Juan Giol'",
+            "nombre": "Escuela Juan Giol",
             "notasNecesarias": [7, 8, 9, 10],
             "direccion": "JULIO FERNANDEZ PELAEZ 802 CANCILLER, MAIPU, MENDOZA",
             "img": "./images/juangiol.jpg" ,
+            "mail": "juan.giol.esc@gmail.com",
             "telefono":  4975553
           },
           {
             "userId": 4,
-            "nombre": "'Escuela Gabriel del Mazo'",
+            "nombre": "Escuela Gabriel del Mazo",
             "notasNecesarias": [ 9, 10],
             "direccion": "CERBANTES 754, LUJAN, MENDOZA",
             "img": "./images/escuelaGabrieldelMazo.jpg" ,
+            "mail": "esc.gabrieldelmazo@gmail.com",
             "telefono":  4323058
           },
           {
            "userId": 5,
-           "nombre": "'Instituto Confucio'",
+           "nombre": "Instituto Confucio",
            "notasNecesarias": [5, 6, 7, 8, 9, 10],
            "direccion": "9 DE JULIO 256, MENDOZA, MENDOZA",
            "img": "./images/institutoConfucio.jpg" ,
+           "mail": "instituto.confucio@gmail.com",
            "telefono":  4247865
           }
     ],
